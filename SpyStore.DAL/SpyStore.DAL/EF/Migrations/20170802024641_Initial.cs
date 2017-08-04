@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace SpyStore.DAL.Migrations
+namespace SpyStore.DAL.EF.Migrations
 {
     public partial class Initial : Migration
     {
